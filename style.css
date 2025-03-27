@@ -1,0 +1,45 @@
+/* Title Styling */
+.title {
+    color: #3498db;
+    font-size: 28px;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    margin-top: 20px;
+}
+
+/* Description Styling */
+.description {
+    font-size: 18px;
+    font-family: 'Verdana', sans-serif;
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid #2ecc71;
+    background-color: #ecf0f1;
+}
+
+/* Image Styling */
+.styled-image {
+    display: block;
+    max-width: 500px; /* Adjust the size */
+    height: auto; /* Maintain aspect ratio */
+    margin: 20px auto;
+    border-radius: 10px;
+    border: 3px solid #e74c3c; /* Red border */
+}
+
+/* Google Link Styling */
+#google {
+    color: #1a73e8;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+}
+
+#google:hover {
+    color: #d93025;
+    text-decoration: underline;
+}
